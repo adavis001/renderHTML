@@ -1,0 +1,14 @@
+body {
+  background-color: yellow;
+  font-size: 30px
+}
+
+#main{
+  background-color:   #00FF00;
+  
+}
+
+li:hover{
+  background-color: aqua;
+  color: blue;
+}
